@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTk2OWQ5MTYtYWNlNC00ZDEyLTkwZDgtZmNlMzNmY2JhNzUxIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](#)
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTk2OWQ5MTYtYWNlNC00ZDEyLTkwZDgtZmNlMzNmY2JhNzUxIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](./Documentation/Documentation_IT_Service.xlsm) | [Dataset](./dataset/Mock_IT_Service_Ticket_Data.csv)
 
 ---
 
@@ -66,7 +66,7 @@ This analysis reveals that FinServe's multi-channel support strategy is **genera
 ## Dashboard Analysis
 
 ### Figure 1: 2021 IT Service Ticket Overview
-![2021 Dashboard](https://github.com/user-attachments/assets/your-image-url-here)
+![2021 Dashboard](./screenshot/2021_Dashboard.png)
 
 **Key Metrics:**
 - **Calls:** 8,963 tickets | 7,944 resolved within 5-day SLA (88.6%)
@@ -103,7 +103,7 @@ This analysis reveals that FinServe's multi-channel support strategy is **genera
 ---
 
 ### Figure 2: 2023 IT Service Ticket Overview
-![2023 Dashboard](https://github.com/user-attachments/assets/your-image-url-here)
+![2023 Dashboard](./screenshot/2023_Dashboard.png)
 
 **Key Metrics & Year-over-Year Changes:**
 - **Calls:** 9,362 tickets | ↑ 2.8% YoY (399 tickets) | 8,244 within SLA
@@ -140,7 +140,7 @@ This analysis reveals that FinServe's multi-channel support strategy is **genera
 ---
 
 ### Figure 3: 2022 IT Service Ticket Overview
-![2022 Dashboard](https://github.com/user-attachments/assets/your-image-url-here)
+![2022 Dashboard](./screenshot/2022_Dashboard.png)
 
 **Key Metrics (Transition Year):**
 - **Calls:** 9,110 tickets | ↑ 1.6% YoY | 8,023 within SLA
@@ -233,7 +233,6 @@ Finally, the experience taught me that data analysis without actionable recommen
 ## Contact
 
 Tien Huynh
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tien-huynh-14021990/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tienhuynh1402/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tienhuynh.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huynhhatien@gmail.com)
 
 ---
