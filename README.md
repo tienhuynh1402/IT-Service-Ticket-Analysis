@@ -6,7 +6,7 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)
 
-[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTk2OWQ5MTYtYWNlNC00ZDEyLTkwZDgtZmNlMzNmY2JhNzUxIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](./Documentation/Documentation_IT_Service.xlsm) | [Dataset](./dataset/Mock_IT_Service_Ticket_Data.csv)
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTk2OWQ5MTYtYWNlNC00ZDEyLTkwZDgtZmNlMzNmY2JhNzUxIiwidCI6ImJlODMyOWE3LTcyMTgtNDlhMy05YWMxLWQ3Yjk1NDU2M2YzOSIsImMiOjEwfQ%3D%3D) | [Documentation](./Documentation/) | [Dataset](./dataset/Mock_IT_Service_Ticket_Data.csv)
 
 ---
 
